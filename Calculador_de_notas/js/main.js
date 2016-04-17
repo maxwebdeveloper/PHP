@@ -38,6 +38,7 @@ function calcular(){
     var puntajeObtenido = parseInt($('#puntajeObtenido').val());
     var exigencia = $("input[name=exigencia]:checked").val();
     var puntajeExigencia = exigencia * puntajeTotal;
+    puntajeExigencia = puntajeExigencia.toFixed(1);
     
     if (puntajeObtenido <= puntajeExigencia){
         

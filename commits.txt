@@ -1,0 +1,11 @@
+commit cd6d207ce8beace5d9e644e52e70dedcbcae7b35
+Author: maxbalter <maxbalterwebdeveloper@gmail.com>
+Date:   Sat Apr 16 23:51:16 2016 -0300
+
+    Modificamos el title del index.html
+
+commit 593c4f1045f53a9aae8ba35d72b36cef67ef1e80
+Author: maxbalter <maxbalterwebdeveloper@gmail.com>
+Date:   Sat Apr 16 23:46:25 2016 -0300
+
+    Iniciamos el proyecto Calculador de notas
