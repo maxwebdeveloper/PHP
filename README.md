@@ -1,5 +1,5 @@
 # Proyectos-web
-Proyectos desarrollados en PHP
+Proyectos desarrollados en tecnologias web (HTML, CSS, JS y PHP)
 
 ## Calculador de Notas
 Es un proyecto en fase de desarrollo destinado a satisfacer las necesidades de los estudiantes de educación basica, 
