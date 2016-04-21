@@ -20,8 +20,8 @@
         <![endif]-->
     </head>
     <body>
-        
-        
+
+
         <div id="main" class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -44,7 +44,7 @@
                                     </div>
                                     <div class="col-md-5">
                                         <form method="post" action="index.html" name="formulario1">
-                                    
+
                                             <!-- puntaje total -->
                                             <div class="form-group">
                                                 <label for="puntajeTotal">Puntaje total</label>
@@ -80,7 +80,7 @@
                                                 </div>
                                             </div>
 
-                                            <button type="button" class="btn btn-success" onclick="calcular()">Calcular</button>
+                                            <button type="button" class="btn btn-info" id="btn_calcular">Calcular</button>
                                             <button type="reset" class="btn btn-default">Limpiar</button>
                                         </form>
                                     </div>
@@ -108,14 +108,15 @@
                                                         <td id="notaAprobacion"></td>
                                                     </tr>
                                                 </tbody>
-                                            </table> 
+                                            </table>
+                                            <p class="text-warning" id="aviso"></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
         </div>
@@ -124,6 +125,6 @@
         <script src="js/jquery.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <script src="js/bootstrap.min.js"></script>
-        <script src="js/main.js"></script>
+        <script src="js/index.js"></script>
     </body>
 </html>
